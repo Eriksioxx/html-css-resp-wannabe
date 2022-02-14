@@ -3,7 +3,7 @@
     #lezioni .row {
         background-color: #f2f2cd;
         margin: 0 auto;
-        width: 768px;
+        width: 100%;
 
         display: flex;
         flex-direction: column;
@@ -11,14 +11,14 @@
     }  
     #lezioni .row>.left,
     #lezioni .row>.right {
-    width: 92%;
-    float: none;
-    margin: 5px 0 10px 0;
+        width: 92%;
+        float: none;
+        margin: 5px 0 10px 0;
 
-    font-size: 18px;
+        font-size: 18px;
     }
     #lezioni img {
-        height: 180px;
+        height: 160px;
     }
     #lezioni h1 {
         font-size: 35px;
@@ -32,7 +32,7 @@
     #steps .row {
         background-color: white;
         margin: 0 auto;
-        width: 768px;
+        width: 100%;
 
         display: flex;
         flex-direction: column;
@@ -42,14 +42,14 @@
     #steps .row>.left,
     #steps .row>.central,
     #steps .row>.right {
-    width: 92%;
-    float: none;
-    margin: 5px 0 10px 0;
+        width: 92%;
+        float: none;
+        margin: 5px 0 10px 0;
 
-    font-size: 18px;
+        font-size: 18px;
     }
     #steps img {
-        height: 180px;
+        height: 150px;
     }
     #steps h1 {
         font-size: 35px;
@@ -63,7 +63,7 @@
     #why .row {
         background-color: #f2f2cd;
         margin: 0 auto;
-        width: 768px;
+        width: 100%;
 
         display: flex;
         flex-direction: column;
@@ -72,14 +72,14 @@
     #why .row>.first,
     #why .row>.second,
     #why .row>.third {
-    width: 92%;
-    float: none;
-    margin: 5px 0 10px 0;
+        width: 92%;
+        float: none;
+        margin: 5px 0 10px 0;
 
-    font-size: 18px;
+        font-size: 18px;
     }
     #why img {
-        height: 130px;
+        height: 100px;
     }
     #why h1 {
         font-size: 35px;
